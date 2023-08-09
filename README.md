@@ -1,5 +1,8 @@
+
 ![logo](https://github.com/REMO2705/REMO2705/blob/main/header-image%20(2).png)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=6000&pause=100&center=true&width=435&lines=KEEP+ON+CHANGING%2C;KEEP+ON+UPDATING!)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Omer</h1>
+
 <h3 align="center">"A passionate Fullstack developer from India !"</h3>
 <img align ="right" alt="coding"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 
