@@ -1,9 +1,11 @@
 
 ![logo](https://github.com/REMO2705/REMO2705/blob/main/header-image%20(2).png)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=6000&pause=100&center=true&width=435&lines=KEEP+ON+CHANGING%2C;KEEP+ON+UPDATING!)](https://git.io/typing-svg)
-<h1 align="center">Hi 👋, I'm Omer</h1>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<h1 align="center">Hi😄 👋, I'm Omer Siddiqui</h1>
 
-<h3 align="center">"A passionate Fullstack developer from India !"</h3>
+<h3 align="center">"A Passionate Fullstack Developer from India !"</h3>
 <img align ="right" alt="coding"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=remo2705&label=Profile%20views&color=0e75b6&style=flat" alt="remo2705" /> </p>
