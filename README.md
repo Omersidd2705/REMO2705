@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://twitter.com/mohdomers" target="blank"><img src="https://img.shields.io/twitter/follow/mohdomers?logo=twitter&style=for-the-badge" alt="mohdomers" /></a> </p>
 
 
-- 🔭 I’m currently working on **pojects based on deep learning**
+- 🔭 I’m currently working on **PROBLEM SOLVING PROJECTS**
 
 - 🌱 I’m currently learning **nodejs, MONGO DB**
 
